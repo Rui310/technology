@@ -30,6 +30,8 @@ p {color : #2e0224;
 .block {
   width: 65%;
 text-align: center;
+position:relative;
+	left:25%;
 }
 
 a { font-size : 1em;}
