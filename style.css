@@ -27,10 +27,10 @@ font-size : 1.7em;
 p {color : #2e0224;
 	font-size : 1.6em;
 	font-weight : bold;}
-h6 {color : #2e0224;
-    font-size : 1em;}
-.text-horizontal-center {
-  text-align: center;
+.block {
+  height: 100px;
+  width: 200px;
+  background-color: #80e2cd;
 }
 
 a { font-size : 1em;}
