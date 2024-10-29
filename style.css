@@ -28,9 +28,7 @@ p {color : #2e0224;
 	font-size : 1.6em;
 	font-weight : bold;}
 .block {
-  height: 100px;
-  width: 200px;
-  background-color: #80e2cd;
+  width: 65%;
 }
 
 a { font-size : 1em;}
