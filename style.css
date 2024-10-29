@@ -28,7 +28,10 @@ p {color : #2e0224;
 	font-size : 1.6em;
 	font-weight : bold;}
 h6 {color : #2e0224;
-	font-size : 1em;}
+	font-size : 1em;
+    position: absolute;
+    top: 38%;
+    left: 32%;}
 
 a { font-size : 1em;}
 
