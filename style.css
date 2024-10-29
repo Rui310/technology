@@ -29,6 +29,7 @@ p {color : #2e0224;
 	font-weight : bold;}
 .block {
   width: 65%;
+text-align: center;
 }
 
 a { font-size : 1em;}
